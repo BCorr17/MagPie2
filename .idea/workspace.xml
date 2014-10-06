@@ -36,8 +36,8 @@
       <file leaf-file-name="Magpie2.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Magpie2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.34385964" vertical-offset="535" max-vertical-offset="1632">
-              <caret line="46" column="54" selection-start-line="46" selection-start-column="54" selection-end-line="46" selection-end-column="54" />
+            <state vertical-scroll-proportion="0.6122807" vertical-offset="467" max-vertical-offset="1785">
+              <caret line="51" column="37" selection-start-line="51" selection-start-column="37" selection-end-line="51" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -319,7 +319,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="253" y="17" width="1400" height="1000" extended-state="0" />
+    <frame x="253" y="17" width="1400" height="1000" extended-state="1" />
     <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -389,8 +389,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Magpie2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34385964" vertical-offset="535" max-vertical-offset="1632">
-          <caret line="46" column="54" selection-start-line="46" selection-start-column="54" selection-end-line="46" selection-end-column="54" />
+        <state vertical-scroll-proportion="0.6122807" vertical-offset="467" max-vertical-offset="1785">
+          <caret line="51" column="37" selection-start-line="51" selection-start-column="37" selection-end-line="51" selection-end-column="37" />
           <folding />
         </state>
       </provider>

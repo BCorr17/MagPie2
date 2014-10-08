@@ -96,6 +96,14 @@ public class Magpie2
 		{
 			response = "You don't say.";
 		}
+        else if (whichResponse == 5)
+        {
+            response = "Try typing";
+        }
+        else if (whichResponse == 6)
+        {
+            response = "Seriously?";
+        }
 
 		return response;
 	}

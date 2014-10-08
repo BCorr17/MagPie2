@@ -36,8 +36,8 @@
       <file leaf-file-name="Magpie2.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Magpie2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7614035" vertical-offset="569" max-vertical-offset="1785">
-              <caret line="62" column="30" selection-start-line="62" selection-start-column="30" selection-end-line="62" selection-end-column="30" />
+            <state vertical-scroll-proportion="0.8807018" vertical-offset="1215" max-vertical-offset="1921">
+              <caret line="104" column="34" selection-start-line="104" selection-start-column="34" selection-end-line="104" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -149,7 +149,7 @@
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="dynamic.classpath" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MagPie3" />
   </component>
   <component name="RunManager" selected="Application.MagpieRunner2">
     <configuration default="false" name="MagpieRunner2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -414,8 +414,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Magpie2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7614035" vertical-offset="569" max-vertical-offset="1785">
-          <caret line="62" column="30" selection-start-line="62" selection-start-column="30" selection-end-line="62" selection-end-column="30" />
+        <state vertical-scroll-proportion="0.8807018" vertical-offset="1215" max-vertical-offset="1921">
+          <caret line="104" column="34" selection-start-line="104" selection-start-column="34" selection-end-line="104" selection-end-column="34" />
           <folding />
         </state>
       </provider>

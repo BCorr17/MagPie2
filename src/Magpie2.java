@@ -52,15 +52,15 @@ public class Magpie2
         else if (statement.indexOf(" ") >= 0)
 
             response = "Say something, please.";
-        else if (statement.indexOf("I hate you") >= 0)
+        else if (statement.indexOf("Shutup") >= 0)
 
-            response = "That's rude";
-        else if (statement.indexOf("How was your day?") >= 0)
+            response = "No";
+        else if (statement.indexOf("Right") >= 0)
 
-            response = "My day was fine";
-        else if (statement.indexOf("Do you know who is typing?") >= 0)
+            response = "Left";
+        else if (statement.indexOf("Up") >= 0)
 
-            response = "Probably Brad or Abby";
+            response = "Down";
 
 		else
 		{
